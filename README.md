@@ -97,9 +97,9 @@ This project develops a strategic dashboard to analyze current performance and s
 
 1️⃣ Empathize  2️⃣ Define point of view  3️⃣ Ideate  4️⃣ Prototype and review  
 
-![Data Modeling](PICTURE/thinking_1.png)
-![Data Modeling](PICTURE/thinking_2.png)
-![Data Modeling](PICTURE/thinking_3.png)
+![Design Thinking](PICTURE/thinking_1.png)
+![Design Thinking](PICTURE/thinking_2.png)
+![Design Thinking](PICTURE/thinking_3.png)
 
 ## 💡 Key Insights & Visualizations  
 
