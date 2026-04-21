@@ -1,4 +1,4 @@
-# Revenue Growth and Market Expansion Strategy in Global Superstore | Power BI
+# Sustainable Revenue Growth and Market Strategy in Global Superstore | Power BI
 
 ![banner](PICTURE/banner.png)
 
