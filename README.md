@@ -95,14 +95,11 @@ This project develops a strategic dashboard to analyze current performance and s
 
 ## 🧠 Design Thinking Process  
 
-1️⃣ Empathize  
-2️⃣ Define point of view  
-3️⃣ Ideate  
-4️⃣ Prototype and review  
-<details>
-<summary>Click to toggle</summary>
-🧠 
-</details>
+1️⃣ Empathize  2️⃣ Define point of view  3️⃣ Ideate  4️⃣ Prototype and review  
+
+![Data Modeling](PICTURE/thinking_1.png)
+![Data Modeling](PICTURE/thinking_2.png)
+![Data Modeling](PICTURE/thinking_3.png)
 
 ## 💡 Key Insights & Visualizations  
 
@@ -184,8 +181,7 @@ This project develops a strategic dashboard to analyze current performance and s
 
 2. Return rate by market
 - Core markets show higher return rates, while small markets report 0%
-- EU: lowest orders in core (1,538) but highest return rate (6.5%)
-- APAC: highest orders (1,885) but lowest return rate in core(5.04%)
+- EU: lowest orders in core (1,538) but highest return rate (6.5%). APAC: highest orders (1,885) but lowest return rate in core(5.04%)
 
 3. Top growth or top loss countries
 - Top 1 growth: Qatar (+18,000% revenue, margin 22.6%) — an unusually high surge. Notably, the 6th highest growth still exceeds +1,800%
@@ -245,7 +241,6 @@ The following next actions aim to drive revenue growth by optimizing product mix
 - Top 10 products by revenue, quantity, ASP, return rate
 
 &nbsp; **Insight**: Optimize product mix, apply cross-sell and upsell strategies
-
 
 ## 🔎 Final Conclusion & Recommendations 
 
